@@ -1,1 +1,2 @@
 # SKINNY-for-RFID-ES
+This is an analysis of Arduino performance against the SKINNY encryption algorithm, the analysis is carried out using Kruskal Wallis analysis, the data analyzed is the performance of Arduino which includes, Flash, Memory Usage / RAM, Voltage, Current, and Power. data is taken from each byte that will increase and the relationship is sought between the increase in bytes with the performance of the Arduino itself. The Arduino used is Arduino Uno R3 in the RFID system.
